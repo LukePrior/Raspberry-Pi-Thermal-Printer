@@ -4,7 +4,9 @@ This repository contains various scripts to print information to a Hoin HOP H58 
 
 # Getting Started
 
-TBD
+- Temperature
+- Inspirational Quote
+- Fun Fact
 
 # DIYODE Magazine Article
 
