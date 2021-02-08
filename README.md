@@ -7,6 +7,10 @@ This repository contains various scripts to print information to a Hoin HOP H58 
 - Temperature
 - Inspirational Quote
 - Fun Fact
+- Shopping List
+- News headlines
+- Bitcoin graph
+- Tweets?
 
 # DIYODE Magazine Article
 
