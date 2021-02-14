@@ -2,15 +2,16 @@
 
 This repository contains various scripts to print information to a Hoin HOP H58 Thermal Printer Via USB.
 
-# Getting Started
+# ToDo
 
-- Temperature
-- Inspirational Quote
-- Fun Fact
+- ~~Weather~~
 - Shopping List
 - News headlines
-- Bitcoin graph
-- Tweets?
+- Tweets
+
+# Contributing
+
+
 
 # DIYODE Magazine Article
 
