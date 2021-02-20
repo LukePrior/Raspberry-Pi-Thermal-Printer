@@ -2,7 +2,7 @@
 # installer.sh will install HOP-H58 drivers, python code & libraries
 
 #Install Packages
-PACKAGES="cups paps"
+PACKAGES="cups paps python3-pip"
 apt-get update
 apt-get upgrade -y
 apt-get install $PACKAGES -y
