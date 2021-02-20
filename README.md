@@ -5,7 +5,6 @@ This repository contains various scripts to print information to a Hoin HOP H58 
 # ToDo
 
 - ~~Weather~~
-- Shopping List
 - ~~News headlines~~
 - ~~Tweets~~
 
