@@ -8,6 +8,8 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("--api", "-a", help="set open weather api key")
 parser.add_argument("--days", "-d", help="set amount of days to return weather forecast for")
+parser.add_argument("--lat", "-la", help="set latitude (sydney default, N+, S-)")
+parser.add_argument("--lon", "-lo", help="set longitude (sydney default, E+, W-)")
 args = parser.parse_args()
 
 if args.api:
@@ -21,9 +23,19 @@ if args.days:
 else:
     days = 3
 
+if args.lat:
+    lat = round(float(args.lat), 4)
+else:
+    lat = -33.8688
+
+if args.lon:
+    lon = round(float(args.lon), 4)
+else:
+    lat = 151.2093
+
 owm = OWM(api)
 mgr = owm.weather_manager()
-one_call = mgr.one_call(lat=-32.9278, lon=151.7108)
+one_call = mgr.one_call(lat=lat, lon=lon)
 
 t = time.time()
 daily = 60*60*24

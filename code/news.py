@@ -7,7 +7,7 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--api", "-a", help="set open weather api key")
-parser.add_argument("--headlines", "-h", help="number of headlines to return")
+parser.add_argument("--headlines", "-n", help="number of headlines to return")
 args = parser.parse_args()
 
 if args.api:

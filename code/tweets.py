@@ -28,7 +28,7 @@ else:
 if args.query:
     search = str(args.query)
 else:
-    search = '@diyodemag'
+    search = 'Raspberry Pi'
 
 if args.tweets:
     tweets = int(args.tweets)
