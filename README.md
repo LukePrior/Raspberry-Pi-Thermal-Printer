@@ -6,7 +6,7 @@ This repository contains various scripts to print information to a Hoin HOP H58 
 
 - ~~Weather~~
 - Shopping List
-- News headlines
+- ~~News headlines~~
 - Tweets
 
 # Contributing
