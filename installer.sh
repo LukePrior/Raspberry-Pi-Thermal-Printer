@@ -11,9 +11,7 @@ apt-get install $PACKAGES -y
 usermod -a -G lpadmin pi
 
 #Install python packages
-pip3 install pyowm
-pip3 install tweepy
-pip3 install requests
+pip3 install pyowm tweepy requests
 
 #Install HOP-H58 Drivers
 git clone https://github.com/OkkarMin/HOP-H58-RaspberryPi-Driver
