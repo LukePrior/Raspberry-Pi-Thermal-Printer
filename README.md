@@ -2,15 +2,31 @@
 
 This repository contains various scripts to print information to a Hoin HOP H58 Thermal Printer Via USB.
 
-# ToDo
+# Setup
 
-- ~~Weather~~
-- ~~News headlines~~
-- ~~Tweets~~
+Clone the repository and run installer.sh:
 
-# Contributing
+```
+git clone https://github.com/LukePrior/Raspberry-Pi-Thermal-Printer
+cd Raspberry-Pi-Thermal-Printer
+sudo chmod +x ./installer.sh
+sudo ./installer.sh
+```
+
+You can run the programs from the code folder:
+
+```
+Example
+```
+
+You can find the complete installation and setup guide in the Diyode Magazine article.
 
 
+# Scripts
+
+- Weather Forecast
+- News Headlines
+- Tweets
 
 # DIYODE Magazine Article
 
