@@ -31,7 +31,7 @@ else:
 if args.lon:
     lon = round(float(args.lon), 4)
 else:
-    lat = 151.2093
+    lon = 151.2093
 
 owm = OWM(api)
 mgr = owm.weather_manager()
