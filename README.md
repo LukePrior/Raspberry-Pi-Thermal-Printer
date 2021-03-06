@@ -16,7 +16,7 @@ sudo ./installer.sh
 You can run the programs from the code folder:
 
 ```
-Example
+python3 /home/pi/Raspberry-Pi-Thermal-Printer/code/weather.py --api API_KEY
 ```
 
 You can find the complete installation and setup guide in the Diyode Magazine article.
