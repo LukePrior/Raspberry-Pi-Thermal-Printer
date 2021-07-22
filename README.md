@@ -34,4 +34,4 @@ You can find the complete installation and setup guide in the Diyode Magazine ar
 
 # License
 
-This project is licensed under the MIT License. This project contains code from the [HOP-H58 58mm Thermal Printer CUPS Driver for RaspberryPi](https://github.com/OkkarMin/HOP-H58-RaspberryPi-Driver) guide and TBD.
+This project is licensed under the MIT License. This project contains code from the [HOP-H58 58mm Thermal Printer CUPS Driver for RaspberryPi](https://github.com/OkkarMin/HOP-H58-RaspberryPi-Driver) guide.
