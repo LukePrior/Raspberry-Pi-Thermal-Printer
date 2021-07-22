@@ -30,7 +30,7 @@ You can find the complete installation and setup guide in the Diyode Magazine ar
 
 # DIYODE Magazine Article
 
-[COMING SOON](https://diyodemag.com/)
+[Printing with Pi](https://diyodemag.com/projects/printing_with_pi_raspberry_pi_thermal_printer_fun)
 
 # License
 
